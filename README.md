@@ -1,9 +1,9 @@
-# 🤖 Chatbot em Português com Transformers e Memória
+# 🤖 Chatbot em Português com Transformers e Memória em BD (SQLite)
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)]
-[![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface&logoColor=white)]
-[![SQLite](https://img.shields.io/badge/SQLite-3.0+-003B57?logo=sqlite&logoColor=white)
-[![Autor](https://img.shields.io/badge/Autor-Arthur%20Teles-lightblue)]
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![SQLite](https://img.shields.io/badge/SQLite-3.0+-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Autor](https://img.shields.io/badge/Autor-Arthur%20Teles-lightblue)](https://github.com/Arhturtelees)
 
 Um protótipo chatbot simples e funcional em **português**, com:
 - Modelo baseado para a língua portuguesa.
